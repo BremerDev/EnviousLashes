@@ -4687,3 +4687,15 @@ input, select, textarea {
 		}
 
 	}
+
+	/* Custom */
+
+	#nav .customColor {
+		color: rgb(238, 183, 223);
+	}
+
+	#nav .customColor:onhover {
+		color: rgb(238, 183, 223);
+	}
+
+
